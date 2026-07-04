@@ -39,6 +39,35 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 * SciPy
 * Statsmodels
 
+
+
+
+
+
+## Datasets Used
+
+| Module                         | Dataset Used               |
+| ------------------------------ | -------------------------- |
+| Data Loading & EDA             | data.xlsx                  |
+| Data Preprocessing & Cleaning  | data.xlsx                  |
+| Data Visualization             | data.xlsx                  |
+| Statistical Analysis           | data.xlsx                  |
+| Regression Analysis            | data.xlsx                  |
+| Classification Techniques      | Heart Disease Dataset      |
+| Clustering Algorithms          | data.xlsx                  |
+| Dimensionality Reduction (PCA) | data.xlsx                  |
+| Time Series Analysis           | Airline Passengers Dataset |
+| Mini Project                   | Credit Card Fraud Dataset  |
+
+### Dataset Sources
+
+* Airline Passengers Dataset: https://www.kaggle.com/datasets/vedatgul/airline-passengers
+* Heart Disease Dataset: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+* Credit Card Fraud Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+Note: Large datasets are not uploaded in this repository because of file size limitations and can be downloaded from the links above.
+
+
 ## Author
 
 Fiza Shabir
